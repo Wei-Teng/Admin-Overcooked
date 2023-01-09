@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "468872378343",
+    "project_id": "overcooked-7e2d7",
+    "storage_bucket": "overcooked-7e2d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468872378343:android:a4895f523f3d29a55a6f42",
+        "android_client_info": {
+          "package_name": "com.example.adminovercooked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468872378343-qm1lra9bb4pguclt1c6b1b524s1vdpv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vJhPxkqHjmi-b6NECP0QxB7iy7QIdmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468872378343-qm1lra9bb4pguclt1c6b1b524s1vdpv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468872378343:android:1c565b27d171cc7f5a6f42",
+        "android_client_info": {
+          "package_name": "com.example.overcooked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468872378343-qm1lra9bb4pguclt1c6b1b524s1vdpv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vJhPxkqHjmi-b6NECP0QxB7iy7QIdmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468872378343-qm1lra9bb4pguclt1c6b1b524s1vdpv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
